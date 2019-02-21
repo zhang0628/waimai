@@ -1,0 +1,219 @@
+.topBar {
+    width: 100%;
+    height: 0.91rem;
+    background-image: linear-gradient(to right, #fa8e47, #f9644c);
+    text-align: center;
+    line-height: 0.91rem;
+    font-size: 0.36rem;
+    position: relative;
+}
+
+.topBar .top {
+    width: 7rem;
+    height: 0.91rem;
+    /*background: #16b0bc;*/
+    margin: 0 auto;
+}
+
+.top i img {
+    float: left;
+    margin-top: 0.20rem;
+    width: 0.3rem;
+    height: 0.5rem;
+}
+.white{
+    width: 7.5rem;
+    height: 6.2rem;
+    /*background: #16b0bc;*/
+    margin: 0 auto;
+}
+.white .redio1{
+    width: 0.54rem;
+    height: 0.54rem;
+    background-color: #fff29c;
+    border-radius: 50%;
+   float: left;
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+}
+.white .redio2{
+    width: 0.15rem;
+    height: 0.15rem;
+    background-color: #ffb3ca;
+    border-radius: 50%;
+   float: left;
+    margin-top: 2.8rem;
+    margin-left: -0.5rem;
+}
+.white .redio3{
+    width: 0.27rem;
+    height: 0.27rem;
+    background-color: #b9f3e6;
+    border-radius: 50%;
+   float: left;
+    margin-top: 3.8rem;
+    margin-left: -0.5rem;
+}
+.white .redio4{
+    width: 0.2rem;
+    height: 0.22rem;
+    background-color: #f2c9fa;
+    border-radius: 50%;
+   float: left;
+    margin-top: 4.3rem;
+    margin-left: -0.4rem;
+}
+.white .redio5{
+    width: 0.13rem;
+    height: 0.13rem;
+    background-color: #54f1d5;
+    border-radius: 50%;
+   float: left;
+    margin-top: 1.6rem;
+    margin-left: 1.6rem;
+}
+.white .redio6{
+    width: 0.14rem;
+    height: 0.14rem;
+    background-color: #b3f795;
+    border-radius: 50%;
+   float: left;
+    margin-top: 1.4rem;
+    margin-left: 0.2rem;
+}
+.white .redio7{
+    width: 0.29rem;
+    height: 0.29rem;
+    background-color: #f1547d;
+    border-radius: 50%;
+   float: left;
+    margin-top: 3rem;
+    margin-left: 1.0rem;
+}
+.white .redio8{
+    width: 1.84rem;
+    height: 1.84rem;
+    background-color: #e78c65;
+    border-radius: 50%;
+   float: left;
+    margin-top: 2rem;
+    margin-left: -3.3rem;
+}
+.white img{
+    display: block;
+    float: left;
+    margin-left: -3.3rem;
+    margin-top:1.9rem;
+    width: 2.71rem;
+    height: 3.05rem;
+}
+.words{
+    width: 7.5rem;
+    height: 0.8rem;
+    background:white;
+    color: black;
+    margin: 0 auto;
+    font-size: 0.4rem;
+    text-align: center;
+    line-height: 0.8rem;
+}
+.aa{
+    width: 7.5rem;
+    height: 0.8rem;
+    /*background: #c2ff1f;*/
+    margin: 0 auto;
+}
+.aa .a1{
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 1.5rem;
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #fbd07f;
+    border-radius: 50%;
+}
+.aa .a2{
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 0.1rem;
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #ffcd6d;
+    border-radius: 50%;
+}
+.aa .a3{
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 0.1rem;
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #ffb528;
+    border-radius: 50%;
+}
+.aa .words1{
+    width: 3.5rem;
+    height: 0.8rem;
+    /*background: #70ff61;*/
+    color: #8d8d8d;
+   float: left;
+    margin-left: 0.1rem;
+    font-size: 0.4rem;
+    text-align: center;
+    line-height: 0.8rem;
+}
+.aa .a4{
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 0.1rem;
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #fbd07f;
+    border-radius: 50%;
+}
+.aa .a5{
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 0.1rem;
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #ffcd6d;
+    border-radius: 50%;
+}
+.aa .a6{
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 0.1rem;
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #ffb528;
+    border-radius: 50%;
+}
+.back{
+    width: 2.21rem;
+    height: 0.7rem;
+    background-image: linear-gradient(90deg,rgba(252, 132, 26, 0.99) 0%,rgba(254, 100, 32, 0.99) 49%,
+    rgba(255, 68, 37, 0.99) 100%);
+    box-shadow: 0 0.02rem 0.13rem 0 rgba(255, 70, 40, 0.73);
+    border-radius: 0.35rem;
+    font-size: 0.3rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 0.7rem;
+    margin: 0 auto;
+    margin-top: 0.9rem;
+}
+.con{
+    width: 2.21rem;
+    height: 0.65rem;
+    background-image: linear-gradient(90deg,#ffc63f 0%,#e6bd00 100%);
+    box-shadow: 0 0.01rem 0.16rem 0 rgba(236, 192, 15, 0.78);
+    border-radius: 0.33rem;
+    font-size: 0.3rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 0.7rem;
+    margin: 0 auto;
+    margin-top: 0.4rem;
+}
+
+
