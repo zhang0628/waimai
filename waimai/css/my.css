@@ -1,7 +1,8 @@
 .bigback{
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to right, #fa8e47, #f9644c);
+    background-image: linear-gradient(to bottom, #fa8e47, #f9644c);
+
 }
 .topBar {
     margin: 0 auto;
@@ -172,15 +173,17 @@
 .footCon{
     margin: 0 auto;
     width: 7.5rem;
-    /*height:6.5rem;*/
-    /*background-color: #407fff;*/
+    height:6.5rem;
+    /*background-color: #cccccc;*/
 }
 .footCon .white{
     float: left;
     margin-left: 0.25rem;
-    margin-top: 0.5rem;
+    margin-top: 0.4rem;
+    margin-bottom: 0.1rem;
     width: 7.02rem;
     height: 0.96rem;
+    border-radius: 0.2rem;
     background-color: #fdfdfd;
     box-shadow: 0 0.01rem 0.16rem 0 rgba(101, 101, 101, 0.28);
 }
@@ -220,6 +223,7 @@
     margin-left: 0.13rem;
     width: 0.38rem;
     height: 0.35rem;
+
 }
 .white p{
     float: left;
