@@ -250,7 +250,30 @@ body {
     border: 2px solid #7f7f7f;
     transition: all 0.8s;
 }
-
+.slides{
+    width:40px;
+    height:69px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin:  auto;
+    background-image: url("../miImage/leftrightjiantou.png");
+    z-index: 5;
+}
+#prev{
+    left: 234px;
+    background-position: -83px 0;
+}
+#prev:hover{
+    background-position: 1px 0;
+}
+#next{
+    right: 0;
+    background-position: -125px;
+}
+#next:hover{
+    background-position: -43px 0;
+}
 
 ul.aside {
     width: 234px;

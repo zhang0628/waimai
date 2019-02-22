@@ -1,3 +1,8 @@
+.bigback{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #fa8e47, #f9644c);
+}
 .topBar {
     margin: 0 auto;
     width: 7.5rem;
@@ -167,7 +172,7 @@
 .footCon{
     margin: 0 auto;
     width: 7.5rem;
-    height:6.5rem;
+    /*height:6.5rem;*/
     /*background-color: #407fff;*/
 }
 .footCon .white{
@@ -290,13 +295,14 @@
 }
 .boxend {
     position: fixed;
-    width: 7.5rem;
+    width:100%;
     bottom: 0;
     height: 0.92rem;
     background: rgba(255, 255, 255, 0.95);
     box-shadow: 0 0.05rem 0.5rem #b0b0b0;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
     display: flex;
+    margin-top: 0.6rem;
     justify-content: space-around;
 }
 

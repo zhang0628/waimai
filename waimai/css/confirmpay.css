@@ -1,3 +1,9 @@
+.bigback{
+    width: 100%;
+ height: 100%;
+    background-image: linear-gradient(to right, #fa8e47, #f9644c);
+}
+
 .topBar {
     width: 100%;
     height: 0.91rem;
@@ -45,13 +51,11 @@
     height: 0.3rem;
 }
 .confirm{
-    position: fixed;
-    bottom: 0;
-    /*width: 7.5rem;*/
-    width: 100%;
-    height: 100%;
+    width:7.5rem;
+    height: 13rem;
     background-image: linear-gradient(to right, #fa8e47, #f9644c);
     margin: auto;
+    font-size: 16px;
 }
 .confirm .aa{
     height: 2.67rem;
@@ -255,7 +259,7 @@ li p{
 }
 .cc{
     width: 7.02rem;
-    height: 8.18rem;
+    height: 8rem;
     background: #ffffff;
     margin: auto;
 }
