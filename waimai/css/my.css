@@ -1,12 +1,11 @@
 .bigback{
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to bottom, #fa8e47, #f9644c);
-
+    /*background-image: linear-gradient(to bottom, #fa8e47, #f9644c);*/
 }
 .topBar {
     margin: 0 auto;
-    width: 7.5rem;
+    width: 100%;
     height: 6.14rem;
     background-image: linear-gradient(to right, #fa8e47, #f9644c);
     text-align: center;
@@ -48,8 +47,8 @@
 .topBar img{
     float: left;
     margin-top: -1rem;
-    width: 7.5rem;
-    height:6.25rem;
+    width: 100%;
+    height: 6.25rem;
 }
 .redio{
     position: absolute;
@@ -297,7 +296,7 @@
     border-radius: 50%;
     background-color: #b2b2b2;
 }
-.boxend {
+.boxend{
     position: fixed;
     width:100%;
     bottom: 0;
